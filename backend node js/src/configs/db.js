@@ -1,6 +1,6 @@
 const mongoose = require ("mongoose")
 
 module.exports= ()=>{
-        return mongoose.connect("mongodb+srv://mubarak:mubarak_123@cluster0.pvaka.mongodb.net/authentication?retryWrites=true&w=majority")
+        return mongoose.connect("mongodb+srv://mubarak:mubarak_123@cluster0.pvaka.mongodb.net/Happycredit?retryWrites=true&w=majority")
 }
    
