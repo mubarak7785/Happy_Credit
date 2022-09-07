@@ -35,8 +35,7 @@ export const Post=()=>{
         <div>
             <h1>Happy Credit</h1>
              <div className="inp-div">
-                    <input type="text" placeholder="Search" onChange={searchChange} />
-                    <button>submit</button>
+                    <input type="text" placeholder="Search....." onChange={searchChange} />
                 </div>
             <div className="main-div">
                
