@@ -23,6 +23,11 @@ body{
    border-radius: 5%;
 }
 
+h1{
+    margin-left: 40%;
+    color: blueviolet;
+    font-family: calibri;
+}
 .sub-div>p>span{
     color: brown;
     font-weight: bold;
